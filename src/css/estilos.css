@@ -101,8 +101,7 @@ main:after{
 .carrossel .imagem.ativa{
     display: block;
 }
-
-/* JavaScript */
+
 @keyframes mudarImagem{
     from{
         opacity: 0.85;
